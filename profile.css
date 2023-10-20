@@ -1,9 +1,18 @@
-. {
+body {
+    background-color: bisque;
     text-align: center;
 }
 h1 {
     text-align: center;
 }
-.Course {
-
+img {
+    height: 200px;
+    text-align: center;
+}
+.random {
+    background-color: rgb(202, 185, 169);
+    padding: 15px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 12px black;
 }
